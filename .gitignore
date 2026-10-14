@@ -1,0 +1,13 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local Data / Weather Output
+data/
+*.json
+
+# IDE config
+.vscode/
+.DS_Store
